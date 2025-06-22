@@ -8,5 +8,5 @@ Clique com o botão direito em algum dos 7 projetos e clique em (Abrir com o ter
 
 ### Referência
 
-  - [Link do Curso](https://www.udemy.com/course/react-js-para-iniciantes-com-exercicios-e-projeto/)
+- [Link do Curso](https://www.udemy.com/course/react-js-para-iniciantes-com-exercicios-e-projeto/)
     
